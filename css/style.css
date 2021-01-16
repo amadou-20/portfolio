@@ -477,6 +477,6 @@ header {
     margin-right: auto;
 }
 a {
-    box-shadow: inset 0 -0.25em yellow;
+    box-shadow: inset 0 -0.25em #4682B4;
     text-decoration: none;
 }
